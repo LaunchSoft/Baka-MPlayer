@@ -159,7 +159,7 @@ Translations
     </message>
     <message>
         <source>DimDialog not supported on this platform</source>
-        <translation>&quot;Το εφε &quot;χαμήλωμα φώτων δεν υοστηρίζετε από την πλατφόρμα σας</translation>
+        <translation>&quot;Το εφε &quot;χαμήλωμα φώτων δεν υποστηρίζετε από την πλατφόρμα σας</translation>
     </message>
     <message>
         <source>Dim Lights</source>
