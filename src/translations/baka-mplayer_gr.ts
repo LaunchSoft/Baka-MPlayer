@@ -232,60 +232,59 @@ Translations
     <message>
         <source>The settings file was made by a newer version of baka-mplayer; please upgrade this version or seek assistance from the developers.
 Some features may not work and changed settings will not be saved.</source>
-        <translation type="vanished">Die Konfigurationsdatei wurde von einer neueren Version von Baka-MPlayer erstellt. Bitte aktualisieren Sie diese Version oder kontaktieren Sie den Entwickler für Unterstützung.
-Einige Features könnten nicht funktionieren und geänderte Einstellungen werden nicht gespeichert.</translation>
+        <translation type="vanished">Το αρχείο ρυθμίσεων έγινε από μια νεότερη έκδοση του Baka-MPlayer, παρακαλούμε να αναβαθμίσετε αυτή την έκδοση ή ζητήστε βοήθεια από τους προγραμματιστές.Ορισμένες λειτουργίες ενδέχεται να μην λειτουργούν και οι τροποποιημένες ρυθμίσεις δεν θα αποθηκευτούν</translation>
     </message>
     <message>
         <source>invalid command &apos;%0&apos;</source>
-        <translation>ungültiger Befehl &apos;%0&apos;</translation>
+        <translation>μη έγκυρη εντολή &apos;%0&apos;</translation>
     </message>
     <message>
         <source>invalid parameter &apos;%0&apos;</source>
-        <translation>ungültiger Parameter &apos;%0&apos;</translation>
+        <translation>μη έγκυρη παράμετρος &apos;%0&apos;</translation>
     </message>
     <message>
         <source>&apos;%0&apos; requires parameters</source>
-        <translation>&apos;%0&apos; benötigt Parameter</translation>
+        <translation>&apos;%0&apos; απαιτεί παραμέτρους</translation>
     </message>
     <message>
         <source>Increase sub size</source>
-        <translation>Untertitel vergößern</translation>
+        <translation>Αύξηση κατά μέγεθος</translation>
     </message>
     <message>
         <source>Decrease sub size</source>
-        <translation>Untertitel verkleinern</translation>
+        <translation>Μείωση κατά μέγεθος</translation>
     </message>
     <message>
         <source>Toggle subtitle visibility</source>
-        <translation>Untertitel ein/aus</translation>
+        <translation>Εναλλαγή προβολής υποτίτλων</translation>
     </message>
     <message>
         <source>Restart playback</source>
-        <translation>Wiedergabe neu starten</translation>
+        <translation>Επανεκκίνηση αναπαραγωγής</translation>
     </message>
     <message>
         <source>Go to next chapter</source>
-        <translation>Kapitel vor</translation>
+        <translation>Μετάβαση στο επόμενο κεφάλαιο</translation>
     </message>
     <message>
         <source>Go to previous chapter</source>
-        <translation>Kapitel zurück</translation>
+        <translation>Μετάβαση στο προηγούμενο κεφάλαιο</translation>
     </message>
     <message>
         <source>Seek forwards by 5 sec</source>
-        <translation>5 Sekunden vorwärts</translation>
+        <translation>Αναζήτηση προς τα εμπρός 5 δευτερόλεπτα</translation>
     </message>
     <message>
         <source>Seek backwards by 5 sec</source>
-        <translation>5 Sekunden rückwärts</translation>
+        <translation>Αναζήτηση προς τα πίσω 5 δευτερόλεπτα</translation>
     </message>
     <message>
         <source>Frame step backwards</source>
-        <translation>Frame rückwärts</translation>
+        <translation>Καρέ-καρέ προς τα πίσω</translation>
     </message>
     <message>
         <source>Frame step</source>
-        <translation>Frame vorwärts</translation>
+        <translation>Καρέ-καρέ</translation>
     </message>
     <message>
         <source>Take screenshot with subtitles</source>
@@ -293,43 +292,43 @@ Einige Features könnten nicht funktionieren und geänderte Einstellungen werden
     </message>
     <message>
         <source>Take screenshot without subtitles</source>
-        <translation>Bildschirmfoto ohne Untertitel</translation>
+        <translation>Τραβήξτε στιγμιότυπο χωρίς υπότιτλους</translation>
     </message>
     <message>
         <source>Decrease volume</source>
-        <translation>leiser</translation>
+        <translation>Μείωση έντασης</translation>
     </message>
     <message>
         <source>Increase volume</source>
-        <translation>lauter</translation>
+        <translation>Άυξηση έντασης</translation>
     </message>
     <message>
         <source>Increase playback speed by 10%</source>
-        <translation>Wiedergabegeschwindigkeit +10%</translation>
+        <translation>Αυξήστε την ταχύτητα αναπαραγωγής κατά 10%</translation>
     </message>
     <message>
         <source>Decrease playback speed by 10%</source>
-        <translation>Wiedergabegeschwindigkeit -10%</translation>
+        <translation>Μειώστε την ταχύτητα αναπαραγωγής κατά 10%</translation>
     </message>
     <message>
         <source>Reset speed</source>
-        <translation>Wiedergabegeschwindigkeit zurücksetzen</translation>
+        <translation>Επαναφορά ταχύτητας</translation>
     </message>
     <message>
         <source>Toggle fullscreen</source>
-        <translation>Vollbild ein/aus</translation>
+        <translation>Εναλλαγή πλήρους οθόνης</translation>
     </message>
     <message>
         <source>Dim lights</source>
-        <translation>Licht aus</translation>
+        <translation>Χαμήλωμα φώτων</translation>
     </message>
     <message>
         <source>Show the file in its folder</source>
-        <translation>Datei im Verzeichnis anzeigen</translation>
+        <translation>Εμφάνιση του αρχείου στο φάκελο του</translation>
     </message>
     <message>
         <source>View media information</source>
-        <translation>Medieninformationen anzeigen</translation>
+        <translation>Προβολή πληροφοριών πολυμέσων</translation>
     </message>
     <message>
         <source>Show jump to time dialog</source>
@@ -337,7 +336,7 @@ Einige Features könnten nicht funktionieren und geänderte Einstellungen werden
     </message>
     <message>
         <source>Open a new window</source>
-        <translation>Neues Fenster</translation>
+        <translation>Άνοιγμα σε νέο παράθυρο</translation>
     </message>
     <message>
         <source>Show open file dialog</source>
