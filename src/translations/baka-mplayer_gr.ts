@@ -344,135 +344,135 @@ Some features may not work and changed settings will not be saved.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Beenden</translation>
+        <translation>Έξοδος</translation>
     </message>
     <message>
         <source>Play next file</source>
-        <translation>Nächste Datei wiedergeben</translation>
+        <translation>Αναπαραγωγή επόμενου αρχείου</translation>
     </message>
     <message>
         <source>Play previous file</source>
-        <translation>Vorherige Datei wiedergeben</translation>
+        <translation>Αναπαραγωγή προηγούμενου αρχείου</translation>
     </message>
     <message>
         <source>Stop playback</source>
-        <translation>Wiedergabe anhalten</translation>
+        <translation>Διακοπή αναπαραγωγής</translation>
     </message>
     <message>
         <source>Show location dialog</source>
-        <translation>Zeige &quot;Orte&quot; Dialog</translation>
+        <translation>Εμφάνιση διαλόγου τοποθεσίαw</translation>
     </message>
     <message>
         <source>Open clipboard location</source>
-        <translation>Zwischenablage öffnen</translation>
+        <translation>Άνοιγμα τοποθεσίας προχείρου</translation>
     </message>
     <message>
         <source>Toggle playlist visibility</source>
-        <translation>Wiedergabeliste ein/aus</translation>
+        <translation>Εναλλαγή προβολής λίστας αναπαραγωγής</translation>
     </message>
     <message>
         <source>Open the last played file</source>
-        <translation>Zuletzt wiedergegebene Datei öffnen</translation>
+        <translation>Ανοίξτε το τελευταίο αρχείο που έπαιξε</translation>
     </message>
     <message>
         <source>Access command-line</source>
-        <translation>Zugriff auf die Kommandozeile</translation>
+        <translation>Πρόσβαση στην γραμμή εντολών</translation>
     </message>
     <message>
         <source>Launch online help</source>
-        <translation>Online Hilfe anzeigen</translation>
+        <translation>Εκκίνηση διαδικτυακής βοήθειας</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation>Start/Pause</translation>
+        <translation>Αναπαραγωγή/Παύση</translation>
     </message>
     <message>
         <source>Fit the window to the video</source>
-        <translation>Auf Videogröße skalieren</translation>
+        <translation>Προσαρμόστε το παράθυρο στο βίντεο</translation>
     </message>
     <message>
         <source>Fit window to 50%</source>
-        <translation>Auf 50% skalieren</translation>
+        <translation>Προσαρμογή παραθύρου στο 50%</translation>
     </message>
     <message>
         <source>Fit window to 75%</source>
-        <translation>Auf 75% skalieren</translation>
+        <translation>Προσαρμογή παραθύρου στο 75%</translation>
     </message>
     <message>
         <source>Fit window to 100%</source>
-        <translation>Auf 100% skalieren</translation>
+        <translation>Προσαρμογή παραθύρου στο 100%</translation>
     </message>
     <message>
         <source>Fit window to 150%</source>
-        <translation>Auf 150% skalieren</translation>
+        <translation>Προσαρμογή παραθύρου στο 150%</translation>
     </message>
     <message>
         <source>Fit window to 200%</source>
-        <translation>Auf 200% skalieren</translation>
+        <translation>Προσαρμογή παραθύρου στο 200%</translation>
     </message>
     <message>
         <source>Boss key</source>
-        <translation>Boss Taste</translation>
+        <translation>Κλειδί Boss</translation>
     </message>
     <message>
         <source>Select next file on playlist</source>
-        <translation>Nächste Datei aus Wiedergabeliste</translation>
+        <translation>Επιλέξτε το επόμενο αρχείο στη λίστα αναπαραγωγής</translation>
     </message>
     <message>
         <source>Select previous file on playlist</source>
-        <translation>Vorherige Datei aus Wiedergabeliste</translation>
+        <translation>Επιλέξτε προηγούμενο αρχείο στη λίστα αναπαραγωγής</translation>
     </message>
     <message>
         <source>Play selected file on playlist</source>
-        <translation>Markierte Datei abspielen</translation>
+        <translation>Αναπαραγωγή επιλεγμένου αρχείου από την λίστα αναπαραγωγής</translation>
     </message>
     <message>
         <source>Remove selected file from playlist</source>
-        <translation>Markierte Datei aus Wiedergabeliste entfernen</translation>
+        <translation>Κατάργηση επιλεγμένων αρχείων από τη λίστα αναπαραγωγής</translation>
     </message>
     <message>
         <source>executes mpv command</source>
-        <translation>mpv Befehl ausführen</translation>
+        <translation>εκτελεί την εντολή MPV</translation>
     </message>
     <message>
         <source>executes system shell command</source>
-        <translation>Shellbefehl ausführen</translation>
+        <translation>εκτελέσει την εντολή κέλυφος συστήματος</translation>
     </message>
     <message>
         <source>creates a new instance of baka-mplayer</source>
-        <translation>Erstellt eine neue Baka-MPlayer Instanz</translation>
+        <translation>δημιουργεί μια νέα παρουσία του baka-mplayer</translation>
     </message>
     <message>
         <source>shows the open location dialog</source>
-        <translation>Zeigt den &quot;Orte&quot; Dialog</translation>
+        <translation>δείχνει το παράθυρο διαλόγου άνοιγμα τοποθεσίας</translation>
     </message>
     <message>
         <source>opens the clipboard</source>
-        <translation>Zwischenablage öffnen</translation>
+        <translation>ανοίγει το πρόχειρο</translation>
     </message>
     <message>
         <source>shows the current file in folder</source>
-        <translation>Zeigt die aktuelle Datei im Verzeichnis an</translation>
+        <translation>δείχνει το τρέχον αρχείο στο φάκελο</translation>
     </message>
     <message>
         <source>add subtitles dialog</source>
-        <translation>Untertitel Fenster hinzufügen</translation>
+        <translation>προσθέσετε ένα διάλογο υπότιτλου</translation>
     </message>
     <message>
         <source>[subs]</source>
-        <translation>[Untertitel]</translation>
+        <translation>[Υπότιτλοι]</translation>
     </message>
     <message>
         <source>take a screenshot (with subtitles if specified)</source>
-        <translation>Bildschirmfoto erstellen (mit Untertiteln, wenn angegeben)</translation>
+        <translation>βγάλτε ένα screenshot (με υπότιτλους αν οριστεί)</translation>
     </message>
     <message>
         <source>toggles media info display</source>
-        <translation>Medieninformationen ein/aus</translation>
+        <translation>εναλλαγή πληροφοριών πολυμέσων</translation>
     </message>
     <message>
         <source>stops the current playback</source>
-        <translation>hält die aktuelle Wiedergabe an</translation>
+        <translation>σταματά την τρέχουσα αναπαραγωγή</translation>
     </message>
     <message>
         <source>[...]</source>
@@ -480,7 +480,7 @@ Some features may not work and changed settings will not be saved.</source>
     </message>
     <message>
         <source>playlist options</source>
-        <translation>Wiedergabelisten Optionen</translation>
+        <translation>επιλογές λίστα αναπαραγωγής</translation>
     </message>
     <message>
         <source>opens jump dialog</source>
